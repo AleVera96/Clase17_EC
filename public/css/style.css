@@ -1,0 +1,32 @@
+#bi { background-image: url('../img/emilia-home.jpg') ;
+    background-repeat: no-repeat;
+    background-position: 105% 0%;
+    background-size: 925px 690px;
+
+}
+
+#ba { background-image: url('../img/emilia-about.jpg');
+    background-repeat: no-repeat;
+    background-position: 105% 0%;
+    background-size: 830px 688px;
+}
+
+#headmusic{
+    background-image: url('../img/emilia-music-top.jpg');
+    position: relative;
+    left: 20px;
+    top: 20px;
+    background-repeat: no-repeat;
+  
+    background-size: 830px 688px;}
+#headnav{ position: relative;
+    left: 20px;
+    top: 20px;
+
+}
+
+
+
+
+
+
