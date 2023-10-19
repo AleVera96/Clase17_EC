@@ -1,15 +1,10 @@
-#bi { background-image: url('../img/emilia-home.jpg') ;
+body { background-image: url('../img/emilia-home.jpg') ;
     background-repeat: no-repeat;
     background-position: 105% 0%;
-    background-size: 925px 690px;
+    background-size: 885px 690px;
 
 }
 
-#ba { background-image: url('../img/emilia-about.jpg');
-    background-repeat: no-repeat;
-    background-position: 105% 0%;
-    background-size: 830px 688px;
-}
 
 #headmusic{
     background-image: url('../img/emilia-music-top.jpg');
@@ -25,8 +20,36 @@
 
 }
 
+#twist{
+    font-size: xxx-large ;
+    background-color:rgba(255, 255, 255, 0.3);
+    position: relative;
+    top: 211px;
+    left: -8px;
+}
 
+#h2h { 
+    font-size: 40px;
+    font-style:initial;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight:lighter;
+    color:rgb(44, 44, 44);
+    position: relative;
+    top: 100px;
+    left: 10px;
+    letter-spacing: 9px;
+}
 
+.nav1{
+    color:rgb(156, 156, 156);
+    font-weight: bold;
+    text-decoration: none;
+}
+.n{ color:black;
+    display: inline-block;
+    position: relative;
+    left: 39px;
 
+}
 
 
