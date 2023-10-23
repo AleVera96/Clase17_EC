@@ -92,11 +92,105 @@
 }
 
 /*Music */
-#headmusic{
-    background-image: url('../img/emilia-music-top.jpg');
-    position: relative;
-    left: 0px;
-    top: -12px;
+#musichead{
+    background-image: url(../img/emilia-music-top.jpg);
+    display: flex;
     background-repeat: no-repeat;
-    background-size: 1236px 212px;
+    margin-top: -9px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-size: cover;
+    justify-content: flex-end;
+    height: 101px;
+}
+
+.musicnav1{
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.459);
+    margin-right: -88px;
+    padding-left: 989px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.musicnav12{
+    color:black;
+    border:solid 1px left;
+    text-decoration: none;
+}
+#musicnav2
+{
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    align-self: flex-end;
+    padding-bottom: 13px;
+    padding-right: 0px;
+}
+#music_h1{
+    font-size:73px;
+    margin-top: 28px;
+    margin-bottom: 18px;
+}
+.music_nav3 ul{
+    color:black;
+    list-style-type: none;
+}
+.music_nav34{
+    color:rgb(121, 121, 121);
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: bold;
+}
+.music_article1{
+    font-size:24px
+}
+#music_img{
+    width: 656px;
+}
+.music_ol li{
+    color:black;
+    font-size:16px;
+    padding-top: 17px;
+}
+.music_ol a{
+    display: flex;
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+    padding-top: 22px;
+    margin-left: -42px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.music_article2{
+    margin-top: 92px;
+}
+#music_h5{
+    font-size: 27px;
+}
+#music_h2{
+    font-size:27px;
+  }
+#music_a1{
+    display: flex;
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+    padding-top: 22px;
+    margin-left: -2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.music_article3{
+    margin-top: 92px;
+}
+#music_a2{
+    display: flex;
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+    padding-top: 22px;
+    margin-left: -2px;
+    font-size: 20px;
+    font-weight: bold;
 }
