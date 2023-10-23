@@ -194,3 +194,60 @@
     font-size: 20px;
     font-weight: bold;
 }
+
+/*estilos para Contact*/
+.contact_header{
+    display: flex;
+    background-repeat: no-repeat;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-size: cover;
+    justify-content: flex-end;
+    height: 101px;
+}
+.contact_header_ul{
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.459);
+    margin-right: -88px;
+    padding-left: 989px;
+    padding-top: 16px;
+    padding-bottom: 12px;
+}
+.contact_header_ul2{
+    font-weight:bold;
+
+    text-decoration: none;
+    color: rgb(121, 121, 121);
+    border-left: solid 2px rgb(121, 121, 121);
+    margin-left: 9px;
+    padding-left: 8px;
+}
+.contact_header_nav{
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    align-self: flex-end;
+    padding-bottom: 4px;
+    padding-right: 6px;
+}
+#contact_h1{
+    font-size:52px;
+    font-weight: bold;
+}
+#contact_h4{
+    font-size:30px;
+    font-weight:bold;
+}
+#contact_h5{
+    color: rgb(33, 172, 177);
+}
+#p{
+color:rgb(121, 121, 121);
+text-decoration:none;
+}
+#p1{
+color:black
+}
